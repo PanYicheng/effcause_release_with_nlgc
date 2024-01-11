@@ -1,0 +1,2 @@
+data/pems-bay/pems-bay.npy filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
